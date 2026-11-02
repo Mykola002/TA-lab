@@ -25,7 +25,7 @@ int main() {
     int no_edge = 0;
     int total_weight = 0; // Змінна для підрахунку загальної ваги МКД
 
-    cout << "--- Алгоритм Прима (Результат) ---" << endl;
+    cout << "Алгоритм Прима (Результат)" << endl;
     cout << "Edge : Weight" << endl;
 
     while (no_edge < V - 1) {
